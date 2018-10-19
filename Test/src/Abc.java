@@ -6,7 +6,7 @@ public class Abc {
 		System.out.println("Hello World");
 		System.out.println("new chane");
 		System.out.println("Added again");
-		System.out.println("Added again" now);
+		System.out.println("Added again");
 		
 	}
 
